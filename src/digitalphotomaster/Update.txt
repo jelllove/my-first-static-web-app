@@ -1,0 +1,7 @@
+[Version]
+VersionID=1300
+
+[AddFiles]
+AddFilesLen=1
+AddFilesSrc1=http://www.jelllove.com/digitalphotomaster/PhotoMaster.exe
+AddFilesDest1=PhotoMaster.exe

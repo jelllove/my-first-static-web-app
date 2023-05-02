@@ -1,0 +1,56 @@
+  html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,audio,canvas,details,figcaption,figure,footer,header,hgroup,mark,menu,meter,nav,output,progress,section,summary,time,video{margin:0;padding:0}fieldset,img{border:0}address,caption,cite,code,dfn,em,th,var,optgroup{font-style:normal;font-weight:normal}ins{text-decoration:none}li{list-style:none}table{font-size:inherit;font:100%;border-collapse:collapse;border-spacing:0}caption,th{text-align:left}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}q:before,q:after{content:&#39;&#39;}abbr,acronym{border:0;font-variant:normal}legend{color:#000}input,button,textarea,select,optgroup,option{font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit}input,button,textarea,select{margin:0;*font-size:100%;line-height:1.2}a
+  img,img{-ms-interpolation-mode:bicubic}sub,sup{vertical-align:baseline}article,aside,dialog,figure,footer,header,hgroup,nav,section,blockquote{display:block}pre{white-space:pre-wrap;word-wrap:break-word}.clearfix:after{content:&quot;.&quot;;display:block;height:0;clear:both;visibility:hidden}.clearfix{zoom:1}.hid{display:none}textarea{resize:none}input[type=text]:focus,input[type=password]:focus,textarea:focus{outline:0}body{font:12px/1.5
+  Microsoft YaHei,arial,helvetica,sans-serif;color:#999}a,a:hover{text-decoration:none;color:#666}#hd{width:960px;margin:0
+  auto;text-align:left;position:relative;height:70px}@-webkit-keyframes
+  hd-show{0%{opacity:0}80%{opacity:0}100%{opacity:1}}@-moz-keyframes
+  hd-show{0%{opacity:0}80%{opacity:0}100%{opacity:1}}@-o-keyframes
+  hd-show{0%{opacity:0}80%{opacity:0}100%{opacity:1}}#logo{float:left;margin:0px 0 0
+  5px;width:140px;height:64px;overflow:hidden;zoom:1;text-indent:-999em;background:url(../img/favicon.png)
+  no-repeat 0 0}.mod-nav{float:right;padding-top:24px;height:31px;position:relative;_margin-left:300px}.mod-nav
+  li{float:left;padding:0 8px;margin-right:25px;color:#666;font-size:14px;display:inline}.mod-nav li a{color:#666}.mod-nav
+  li.last{color:#0284e5;font-size:14px;line-height:21px}.mod-nav li.last a{color:#0284e5}.mod-nav
+  .line{position:absolute;left:0;bottom:0;font-size:0;line-height:0;width:1px;border-top:2px #2294e6 solid}#bd{width:100%}#bd
+  .mod-banner{background:url(../img/facemask.png) no-repeat #738dbf center
+  center;height:400px;width:100%}#bd .mod-banner .download_wrapper{width:960px;height:100%;margin:0 auto;position:relative}#bd
+  .mod-banner .download{width:240px;position:absolute;top:198px;right:114px;-webkit-animation:download-show 1s 1
+  ease-in;-moz-animation:download-show 1s 1 ease-in;-o-animation:download-show 1s 1 ease-in}@-webkit-keyframes
+  download-show{0%{right:214px;opacity:.0}100%{right:114px;opacity:1}}@-moz-keyframes
+  download-show{0%{right:214px;opacity:.0}100%{right:114px;opacity:1}}@-o-keyframes
+  download-show{0%{right:214px;opacity:.0}100%{right:114px;opacity:1}}#bd .mod-banner .download
+  .bt-download{display:block;width:240px;height:62px;background:url(http://p1.qhimg.com/d/inn/aaadc03e/download.png) no-repeat}#bd
+  .mod-banner .download .bt-download:hover{background:url(http://p9.qhimg.com/d/inn/aaadc03e/downloadhover.png) no-repeat}#bd
+  .mod-banner .download .bt-download b{display:none}#bd .mod-banner .download .sd{margin-top:15px}#bd .mod-banner .download .sd
+  p{color:#fff;line-height:19px}#bd .mod-content .content-nav-wrapper{width:100%;*border:1px solid #ccc;box-shadow:1px 1px 3px
+  #CCC;-webkit-box-shadow:1px 1px 3px #CCC;-moz-box-shadow:1px 1px 3px
+  #CCC}.content-nav-fixed{position:fixed;top:0;z-index:100;background:#fff}#bd .mod-content #content-nav{width:960px;margin:0
+  auto}#bd .mod-content #content-nav
+  a{width:199px;height:70px;line-height:70px;font-size:18px;color:#0284e5;display:inline-block;padding-left:88px;margin-right:-4px}#bd
+  .mod-content #content-nav .nav1{background:url(http://p6.qhimg.com/d/inn/71d5fd98/images/nav1.png) no-repeat 45px 20px}#bd
+  .mod-content #content-nav .nav1:hover,#bd .mod-content #content-nav
+  .curnav1{color:#fff;background:url(http://p7.qhimg.com/d/inn/71d5fd98/images/navhover1.png) no-repeat #39a7ff 45px 20px}#bd
+  .mod-content #content-nav .nav2{background:url(http://p6.qhimg.com/d/inn/71d5fd98/images/nav2.png) no-repeat 45px 20px}#bd
+  .mod-content #content-nav .nav2:hover,#bd .mod-content #content-nav
+  .curnav2{color:#fff;background:url(http://p7.qhimg.com/d/inn/71d5fd98/images/navhover2.png) no-repeat #39a7ff 45px 20px}#bd
+  .mod-content #content-nav .nav3{background:url(http://p6.qhimg.com/d/inn/71d5fd98/images/nav3.png) no-repeat 45px 20px}#bd
+  .mod-content #content-nav .nav3:hover,#bd .mod-content #content-nav
+  .curnav3{color:#fff;background:url(http://p7.qhimg.com/d/inn/71d5fd98/images/navhover3.png) no-repeat #39a7ff 45px 20px}#bd
+  .mod-content #content-nav .nav4{background:url(http://p6.qhimg.com/d/inn/71d5fd98/images/nav4.png) no-repeat 45px 20px}#bd
+  .mod-content #content-nav .nav4:hover,#bd .mod-content #content-nav
+  .curnav4{color:#fff;background:url(http://p7.qhimg.com/d/inn/71d5fd98/images/navhover4.png) no-repeat #39a7ff 45px 20px}#bd
+  .mod-content #jijiupan-con{width:960px;margin:0 auto}#bd .mod-content #jijiupan-con .con-item{position:relative;border-bottom:1px
+  #dcdcdc solid;height:400px}#bd .mod-content #jijiupan-con .con-item
+  .denggao{height:100%;width:1px;margin-left:-1px;display:inline-block;vertical-align:middle}#bd .mod-content #jijiupan-con
+  .con-item .con-item-text{width:375px;padding-top:152px;float:left;margin:0 75px;line-height:34px;*position:absolute;*left:50%}#bd
+  .mod-content #jijiupan-con #nav-con2 .con-item-text,#bd .mod-content #jijiupan-con #nav-con4 .con-item-text{float:right}#bd
+  .mod-content #jijiupan-con #nav-con2 img,#bd .mod-content #jijiupan-con #nav-con4 img{margin-left:25px}#bd .mod-content
+  #jijiupan-con .con-item .con-item-text h3{color:#0284e5;font-size:30px;margin-bottom:17px}#bd .mod-content #jijiupan-con
+  .con-item .con-item-text p{font-size:18px}#bd .mod-content #jijiupan-con .con-item img{vertical-align:middle}#bd
+  #mod-advantage{margin:78px auto 55px;width:960px}#bd #mod-advantage
+  li{width:218px;padding-left:55px;height:43px;float:left;color:#0284e5}#bd #mod-advantage li h5{font-size:18px}#bd #mod-advantage
+  .adv1{margin-left:10px;background:url(http://p3.qhimg.com/d/inn/57c6c5a5/img/advantage1.png) no-repeat}#bd #mod-advantage
+  .adv2{background:url(http://p3.qhimg.com/d/inn/57c6c5a5/img/advantage2.png) no-repeat}#bd #mod-advantage
+  .adv3{background:url(http://p3.qhimg.com/d/inn/57c6c5a5/img/advantage3.png) no-repeat}#bd #mod-advantage
+  .more{width:125px;_width:121px;padding-left:0;line-height:43px;color:#999;font-size:14px}#bd
+  .thks{width:960px;height:39px;line-height:39px;margin:0 auto
+  60px;background:#39a7ff;color:#fff;text-align:center}#ft{height:80px;border-top:1px #e0e0e0
+  solid;background:#eee;padding-top:21px;text-align:center}
